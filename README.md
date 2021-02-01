@@ -9,5 +9,5 @@ CREDITS : All of these questions were taken as a reference from the free resourc
 2. You've to create a pattern of * and separated by tab as shown in output format.
 ## OUTPUT 1
 
-<img alt="PATTERN 1" width="24px" src="https://pepcoding.com/resources/ojquestionresource/images/pat11.JPG" />
+<img alt="PATTERN 1" width="240px" src="https://pepcoding.com/resources/ojquestionresource/images/pat11.JPG" />
 
