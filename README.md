@@ -74,4 +74,8 @@ CREDITS : All of these questions were taken as a reference from the free resourc
 2. You've to create a pattern as shown in output format
 ## OUTPUT 14
 <img alt="PATTERN 14" width="240px" src="https://pepcoding.com/resources/ojquestionresource/images/pat141.JPG" /></img>
-
+## PATTERN 15
+1. You are given a number n.
+2. You've to create a pattern as shown in output format
+## OUTPUT 15
+<img alt="PATTERN 15" width="240px" src="https://pepcoding.com/resources/ojquestionresource/images/pat151.JPG" /></img>
