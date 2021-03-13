@@ -94,3 +94,5 @@ CREDITS : All of these questions were taken as a reference from the free resourc
 2. You've to create a pattern as shown in output format
 ## OUTPUT 18
 <img alt="PATTERN 18" width="240px" src="https://pepcoding.com/resources/ojquestionresource/images/pat181.JPG" /></img>
+## OUTPUT 19
+<img alt="PATTERN 19" width="240px" src="https://pepcoding.com/resources/ojquestionresource/images/pat191.JPG" /></img>
